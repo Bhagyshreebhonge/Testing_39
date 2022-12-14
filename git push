@@ -1,0 +1,11 @@
+[1mdiff --git a/main.py b/main.py[m
+[1mindex 4776aae..224ad0a 100644[m
+[1m--- a/main.py[m
+[1m+++ b/main.py[m
+[36m@@ -1,4 +1,4 @@[m
+ a = 10[m
+ b = 20[m
+ c = a+b[m
+[31m-print ("addition is:",c)[m
+\ No newline at end of file[m
+[32m+[m[32mprint("addition is:", c)[m
